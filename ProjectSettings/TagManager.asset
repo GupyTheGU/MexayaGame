@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - piso
+  - flor
+  - waterBall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Post-Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 3470812685
+    locked: 0
+  - name: postProcessing
+    uniqueID: 2498406721
+    locked: 0
+  - name: NPC
+    uniqueID: 777086135
+    locked: 0
+  - name: GAME
+    uniqueID: 3335649875
+    locked: 0
+  - name: GUI
+    uniqueID: 1924219547
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
